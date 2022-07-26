@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "authorizationKeys": [
+            ""
+        ]
+    },
+    "user": {
+        "isClearAll": false,
+        "userIds": [
+            ""
+        ]
+    }
+}
